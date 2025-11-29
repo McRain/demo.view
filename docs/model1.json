@@ -1,0 +1,70 @@
+{
+    "id": "Model1",
+    "base": {
+        "src": "base.glb",
+        "transform": {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotattion": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "hidden": []
+    },
+    "elements": [
+        {
+            "id":"vent",
+            "src": "vent.glb",
+            "transform": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotattion": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            "hidden": []
+        },
+        {
+            "id":"canal",
+            "src": "canal.glb",
+            "transform": {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotattion": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            "hidden": []
+        }
+    ]
+}
