@@ -4,5 +4,15 @@
   display: flex;
   flex-direction: column;
   top: 0;
+  gap: 10px;
+}
+.vlist {
+  display: flex;
+  gap: 5px;
+  flex-direction: row;
+}
+.hlist {
+  display: flex;
+  gap: 5px;
 }
 
